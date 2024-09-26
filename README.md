@@ -1,4 +1,4 @@
-Personal Planner 
+# Personal Planner 
 
 Author: Jessica Truong, Iman Hazmat, Haley Schriemer
 
@@ -18,7 +18,7 @@ of completion for a due date, Rate of completion for a category and what to do n
 When the calculate button is pressed, it will display the necessary information for that type of calculation. The "View All" button
 allows user to see all the tasks added by the user.
 
-How to Run
+## How to Run
 To run program, go to https://gluonhq.com/products/javafx/ and download the appropriate version of JavaFX for your device (Example: Windows, 22, SDK) Open your cmd (control window) and navigate to where the map editor file is stored.
 To run using a jar file of the editor,
 download the jar file and then run in terminal with the path:
